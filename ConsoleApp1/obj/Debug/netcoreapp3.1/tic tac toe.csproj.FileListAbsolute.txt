@@ -1,0 +1,14 @@
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.csproj.AssemblyReference.cache
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfoInputs.cache
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfo.cs
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.csproj.CoreCompileInputs.cache
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\tic tac toe.exe
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\tic tac toe.deps.json
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\tic tac toe.runtimeconfig.json
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\tic tac toe.runtimeconfig.dev.json
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\tic tac toe.dll
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\tic tac toe.pdb
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.dll
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.pdb
+E:\Lev\vs-projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\tic tac toe.genruntimeconfig.cache
